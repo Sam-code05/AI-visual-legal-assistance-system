@@ -102,13 +102,13 @@ pip install numpy torch matplotlib
 3. Run：
 
 ```
-python main.py
+python AI_Agents.py
 ```
 
 Expected output：
 
 ```
-[Evaluate] average tasks completed per episode = 5.00 / 5
+[Evaluate] average tasks completed per episode = x.00 / 5
 ```
 
 A plot `training_curve.png` will also be shown.
